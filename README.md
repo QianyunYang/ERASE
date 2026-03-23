@@ -3,20 +3,19 @@
 <div align="center">
   <h1>🕵️‍♂️ (TDSC 2026) ERASE: Bypassing Collaborative Detection of AI Counterfeit via Comprehensive Artifacts Elimination</h1>
 <p>
-    <b>Qianyun Yang</b><sup>1</sup>&nbsp;&nbsp;&nbsp;
-    <b>Peizhuo Lv</b><sup>2</sup>&nbsp;&nbsp;&nbsp;
-    <b>Yingjiu Li</b><sup>3</sup>&nbsp;&nbsp;&nbsp;
-    <b>Shengzhi Zhang</b><sup>4</sup>&nbsp;&nbsp;&nbsp;
-    <b>Yuxuan Chen</b><sup>1</sup>&nbsp;&nbsp;&nbsp;
-    <b>Zhiwei Chen</b><sup>1</sup>&nbsp;&nbsp;&nbsp;
-    <b>Zixu Li</b><sup>1</sup>&nbsp;&nbsp;&nbsp;
+    <b>Qianyun Yang</b><sup>1</sup>&nbsp;
+    <b>Peizhuo Lv</b><sup>2</sup>&nbsp;
+    <b>Yingjiu Li</b><sup>3</sup>&nbsp;
+    <b>Shengzhi Zhang</b><sup>4</sup>&nbsp;
+    <b>Yuxuan Chen</b><sup>1</sup>&nbsp;
+    <b>Zixu Li</b><sup>1</sup>&nbsp;
     <b>Yupeng Hu</b><sup>1</sup>
   </p>
 
   <p>
-    <sup>1</sup>Shandong University&nbsp;&nbsp;&nbsp;
-    <sup>2</sup>Nanyang Technological University&nbsp;&nbsp;&nbsp;
-    <sup>3</sup>University of Oregon&nbsp;&nbsp;&nbsp;<br>
+    <sup>1</sup>Shandong University&nbsp;
+    <sup>2</sup>Nanyang Technological University&nbsp;
+    <sup>3</sup>University of Oregon&nbsp;&nbsp
     <sup>4</sup>Boston University
   </p>
   
