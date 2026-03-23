@@ -2,6 +2,23 @@
 <a id="top"></a>
 <div align="center">
   <h1>🕵️‍♂️ (TDSC 2026) ERASE: Bypassing Collaborative Detection of AI Counterfeit via Comprehensive Artifacts Elimination</h1>
+<p>
+    <b>Qianyun Yang</b><sup>1</sup>&nbsp;&nbsp;&nbsp;
+    <b>Peizhuo Lv</b><sup>2</sup>&nbsp;&nbsp;&nbsp;
+    <b>Yingjiu Li</b><sup>3</sup>&nbsp;&nbsp;&nbsp;
+    <b>Shengzhi Zhang</b><sup>4</sup>&nbsp;&nbsp;&nbsp;
+    <b>Yuxuan Chen</b><sup>1</sup>&nbsp;&nbsp;&nbsp;
+    <b>Zhiwei Chen</b><sup>1</sup>&nbsp;&nbsp;&nbsp;
+    <b>Zixu Li</b><sup>1</sup>&nbsp;&nbsp;&nbsp;
+    <b>Yupeng Hu</b><sup>1</sup>
+  </p>
+
+  <p>
+    <sup>1</sup>Shandong University&nbsp;&nbsp;&nbsp;
+    <sup>2</sup>Nanyang Technological University&nbsp;&nbsp;&nbsp;
+    <sup>3</sup>University of Oregon&nbsp;&nbsp;&nbsp;<br>
+    <sup>4</sup>Boston University
+  </p>
   
   <p>
     <a href="#"><img src="https://img.shields.io/badge/IEEE_TDSC-2026-blue.svg?style=flat-square" alt="TDSC 2026"></a>
@@ -94,8 +111,8 @@ We recommend using Anaconda to manage your environment. This project was develop
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/QianyunYang/Erase
-cd Erase
+git clone https://github.com/QianyunYang/ERASE
+cd ERASE
 
 # 2. Create a virtual environment
 conda create -n erase python=3.9 -y
