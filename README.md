@@ -271,3 +271,7 @@ The underlying evaluation mechanisms and partial structure of this project were 
 ⚠️ **Important Notice**: This tool is strictly intended for academic research, AI security evaluation, and robustness testing. It is strictly prohibited to use it for any malicious forgery, fraud, or other illegal/unethical purposes. Users bear full legal responsibility for any consequences arising from improper use.
 
 [⬆ Back to top](#top)
+
+## 📄 License
+
+This project is released under the terms of the [LICENSE](./LICENSE) file included in this repository.
